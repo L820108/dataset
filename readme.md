@@ -7,7 +7,7 @@
   >TwitterAPI
 
   內容主題為何？
-  > 動畫以及科技類
+  > 動畫
   
   下哪個查詢字串？
   > #Animation
